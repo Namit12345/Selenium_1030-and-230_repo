@@ -16,5 +16,6 @@ public class LamborghiniTest {
 	 
 	 Driver.get("https://www.lamborghini.com/en-en");
 	 Reporter.log("Lamborghini Launched Successfully",true);
+	 Reporter.log("Lamborghini Launched Successfully",true);
  }
 }
